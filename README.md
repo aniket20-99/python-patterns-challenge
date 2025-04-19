@@ -1,7 +1,7 @@
 # python-patterns-challenge
 A collection of Python pattern problems ranging from basic to advanced. This repository is designed to help learners strengthen their understanding of loops, conditionals, and logical thinking through hands-on pattern challenges.
 ---
-- This repository contains a comprehensive set of **pattern printing problems using Python**, progressing from **basic to advanced levels**.
+This repository contains a comprehensive set of **pattern printing problems using Python**, progressing from **basic to advanced levels**.
 
 It’s a great resource for:
 - Strengthening your understanding of **loops and nested loops**
